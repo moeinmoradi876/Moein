@@ -18,9 +18,7 @@
         top: 0;
         visibility: hidden;
         width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
+      }sdsd
         visibility: visible;
       }
     </style>
