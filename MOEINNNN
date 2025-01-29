@@ -57,7 +57,7 @@
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
-    </style>
+    </style>jj,u
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
@@ -67,7 +67,8 @@
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   </body>
-</html>
+</html>fjfjf
+
 
 <!doctype html>
 <html dir="ltr" lang="en">
