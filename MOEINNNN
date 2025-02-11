@@ -303,7 +303,8 @@
         pointer-events: none;
         position: fixed;
         top: 0;
-        visibility: hidden;
+        visibility: hidden;;kkll'
+
         width: 100%;
       }sdfgsx
       [show-background-image] #backgroundImage {
